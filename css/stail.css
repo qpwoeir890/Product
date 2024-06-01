@@ -735,6 +735,358 @@ body {
   letter-spacing: 0.200000003px;
 }
 
+.sectione-9 {
+  max-width: 1122px;
+  padding: 0, 20px;
+  margin: 0 auto;
+}
+.sectione-9 .sectione-9__div .sectione-9__text-1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: center;
+  color: #fff;
+  margin: 130px 0px 32px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__text-2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+  margin: -15px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__text-3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #fff;
+}
+.sectione-9 .sectione-9__div .sectione-9__content {
+  display: flex;
+  gap: 71px;
+  margin: 49px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte {
+  width: 322px;
+  height: 436px;
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 0px 0px 24px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text-3 {
+  background-color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text-4 {
+  background-color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  margin: -25px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text {
+  display: flex;
+  margin: 0px 0px 16px 83px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text .sectione-9__text-5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 76px;
+  font-weight: 700;
+  background-color: #fff;
+  color: rgb(2, 137, 122);
+  margin: 30px 0px 16px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text .sectione-9__text-6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0.1000000015px;
+  background-color: #fff;
+  color: rgb(175, 175, 175);
+  margin: 3px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text .sectione-9__text-7 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0.1000000015px;
+  text-align: left;
+  color: rgb(2, 137, 122);
+  background-color: #fff;
+  margin: 30px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__text-5 {
+  background-color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  margin: 5px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__btn-signln {
+  width: 139px;
+  height: 44px;
+  padding: 11px 19px 11px 18px;
+  border-radius: 8px;
+  margin: 38px 0px 0px 91px;
+  background-color: rgb(2, 137, 122);
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.94px;
+  border: none;
+  transition: 1s;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte .sectione-9__btn-signln:hover {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 10px rgb(2, 137, 122);
+  color: rgb(2, 137, 122);
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 {
+  width: 322px;
+  height: 436px;
+  border-radius: 8px;
+  background-color: rgb(2, 137, 122);
+  padding: 0px 0px 24px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text-3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text-4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  margin: -25px 0px 0px 0px;
+  color: #fff;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text {
+  display: flex;
+  margin: 0px 0px 16px 83px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text .sectione-9__text-5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 76px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  margin: 30px 0px 16px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text .sectione-9__text-6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0.1000000015px;
+  color: rgb(175, 175, 175);
+  margin: 3px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text .sectione-9__text-7 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0.1000000015px;
+  text-align: left;
+  color: rgb(255, 255, 255);
+  margin: 30px 0px 0px 0px;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__text-5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  margin: 5px 0px 0px 0px;
+  color: #fff;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__btn-signln {
+  width: 139px;
+  height: 44px;
+  padding: 11px 19px 11px 18px;
+  border-radius: 8px;
+  margin: 38px 0px 0px 91px;
+  background-color: #fff;
+  color: rgb(2, 137, 122);
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.94px;
+  border: none;
+  transition: 1s;
+}
+.sectione-9 .sectione-9__div .sectione-9__content .sectione-9__carte-2 .sectione-9__btn-signln:hover {
+  background-color: rgb(2, 137, 122);
+  box-shadow: 0 0 10px rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+
+.sectione-10 {
+  max-width: 1122px;
+  padding: 0, 20px;
+  margin: 0 auto;
+}
+.sectione-10 .sectione-10__div .sectione-10__text-1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: center;
+  color: #fff;
+  margin: 203px 0px 32px 0px;
+}
+.sectione-10 .sectione-10__div .sectione-10__text-2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+  margin: -15px 0px 0px 0px;
+}
+.sectione-10 .sectione-10__div .sectione-10__text-3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #fff;
+}
+.sectione-10 .sectione-10__div .sectione-10__btn-signln {
+  width: 224px;
+  height: 44px;
+  padding: 11px 19px 11px 18px;
+  border-radius: 8px;
+  margin: 32px 0px 0px 441px;
+  background-color: rgb(2, 137, 122);
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.94px;
+  border: none;
+  transition: 1s;
+}
+.sectione-10 .sectione-10__div .sectione-10__btn-signln:hover {
+  background-color: rgb(31, 46, 53);
+  box-shadow: 0 0 10px rgb(2, 137, 122);
+  color: rgb(2, 137, 122);
+}
+
+.sectione-11 {
+  max-width: 1122px;
+  padding: 0, 20px;
+  margin: 0 auto;
+}
+.sectione-11 .sectione-11__div .sectione-11__text-1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 51px;
+  text-align: center;
+  color: #fff;
+  margin: 201px 0px 51px 0px;
+}
+.sectione-11 .sectione-11__div .sectione-11__content {
+  display: flex;
+}
+.sectione-11 .sectione-11__div .sectione-11__content .sectione-11__carte {
+  margin: 0px 0px 0px 68px;
+}
+.sectione-11 .sectione-11__div .sectione-11__content .sectione-11__carte .sectione-11__text {
+  display: flex;
+}
+.sectione-11 .sectione-11__div .sectione-11__content .sectione-11__carte .sectione-11__text .sectione-11__text-2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  color: #fff;
+  margin: 10px 0px 0px 14px;
+}
+.sectione-11 .sectione-11__div .sectione-11__content .sectione-11__carte .sectione-11__text-3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #fff;
+}
+
+.sectione-12 {
+  max-width: 1122px;
+  padding: 0, 20px;
+  margin: 0 auto;
+}
+.sectione-12 .sectione-12__div {
+  margin: 152px 0px 0px 0px;
+}
+.sectione-12 .sectione-12__div .sectione-12__text-1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 51px;
+  text-align: center;
+  color: #fff;
+}
+.sectione-12 .sectione-12__div .sectione-12__text-4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+  color: #fff;
+  margin: -10px 0px 50px 0px;
+}
+.sectione-12 .sectione-12__div .sectione-12__content {
+  margin: 0px 0px 0px 95px;
+}
+.sectione-12 .sectione-12__div .sectione-12__content .sectione-12__text {
+  display: flex;
+  margin: 16px 0px 20px 0px;
+}
+.sectione-12 .sectione-12__div .sectione-12__content .sectione-12__text .sectione-12__text-2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #fff;
+  margin: 0px 0px 0px 16px;
+}
+.sectione-12 .sectione-12__div .sectione-12__content .sectione-12__text-3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(255, 255, 255);
+}
+.sectione-12 .sectione-12__div .sectione-12__content .div {
+  width: 920px;
+  height: 1px;
+  border: 1px;
+  background-color: rgb(71, 71, 71);
+}
+
 .sectione-8 {
   max-width: 1122px;
   padding: 0, 20px;
